@@ -1,0 +1,33 @@
+* {
+  margin:0;
+  padding: 10;
+}
+
+body {
+  background-color: #000000;
+  align-content: center;
+  text-align: center;
+  margin-bottom: 30;
+  
+  
+}
+
+.pages {
+  color: #ffdd40;
+  text-align: center;
+  font-size: 3.5rem;
+  margin-top: 10%;
+  
+}
+
+/*.SearchL {
+  margin-top: 100px;
+  width: 100%;
+  display:flex;
+  align-items: center;
+  justify-content:center;
+}*/
+
+.navbar {
+  margin-bottom: 50px;
+}
