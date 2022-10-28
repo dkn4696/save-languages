@@ -1,0 +1,14 @@
+{
+  "name": "1ae622e9691363c6",
+  "main": "1ae622e9691363c6@1630.js",
+  "version": "1630.0.0",
+  "homepage": "https://observablehq.com/d/1ae622e9691363c6",
+  "author": {
+    "name": "Dinesh Kumar Nanduri",
+    "url": "https://observablehq.com/@dkn4696"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
